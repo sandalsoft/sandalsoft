@@ -14,11 +14,11 @@ def sample_config():
     return {
         "username": "galaxy-dev",
         "profile": {
-            "name": "Nyx Orion",
-            "tagline": "Full Stack Developer & Open Source Explorer",
-            "company": "Stellar Labs",
+            "name": "Eric Nelon",
+            "tagline": "AI FDE OMG WTF BBQ",
+            "company": "PromptQL",
             "location": "San Francisco, CA",
-            "bio": "Building tools that make developers' lives easier.",
+            "bio": "",
             "philosophy": "The best code is the code that empowers others.",
         },
         "social": {
