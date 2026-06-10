@@ -35,7 +35,7 @@
 
 Automating everything under the sun using custom pi extensions
 
-**Currently at** PromptQL — San Francisco, CA
+**Currently at** Snowfklake
 
 </details>
 
