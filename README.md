@@ -35,7 +35,7 @@
 
 Automating everything under the sun using custom pi extensions
 
-**Currently at** Snowfklake
+**Currently at** Snowflake
 
 </details>
 
